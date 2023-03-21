@@ -10,7 +10,7 @@ public class DBConnection{
      * requested and want to store.
      **/
 
-    public Connection con;
+    private Connection con;
 
     public DBConnection() {
         DBconnection();
@@ -20,10 +20,18 @@ public class DBConnection{
     public void DBconnection()
     {
         try{
+            System.out.println("Hello Macke");
             Class.forName("com.mysql.cj.jdbc.Driver");
-            con= DriverManager.getConnection("jdbc:mysql://localhost:3306/CSE_4636_ASSIGMENT_3","root","admin123");
+            this.con= DriverManager.getConnection("jdbc:mysql://localhost:3306/CSE_4636_ASSIGMENT_3","root","admin123");
             /** here CSE_4636_ASSIGMENT_3 is database name, root is username and is admin123 password **/
         }catch(Exception e){ System.out.println(e);}
     }
 
+    public Connection getCon() {
+        return con;
+    }
+
+    public void setCon(Connection con) {
+        this.con = con;
+    }
 }

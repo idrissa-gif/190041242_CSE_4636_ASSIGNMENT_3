@@ -6,4 +6,13 @@
     <welcome-file-list>
         <welcome-file>ShowShoppingCartContent.jsp</welcome-file>
     </welcome-file-list>
+    <servlet>
+        <servlet-name>AddServlet</servlet-name>
+        <servlet-class>com.example.cse4636_assigment3.views.AddServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddServlet</servlet-name>
+        <url-pattern>/AddServlet</url-pattern>
+    </servlet-mapping>
+
 </web-app>

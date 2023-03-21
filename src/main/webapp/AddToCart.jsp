@@ -32,17 +32,17 @@
     </div>
 </nav>
 <div id="content-add">
-    <form>
+    <form method="get" action="AddServlet">
         <fieldset>
             <legend>Add Item to the Shopping Cart</legend>
             <div class="mb-3">
-                <input type="text" id="product_name" class="form-control" placeholder="product name">
+                <input type="text" id="product_name" name="product_name" class="form-control" placeholder="product name">
             </div>
             <div class="mb-3">
-                <input type="number" id="price" class="form-control" placeholder="Price">
+                <input type="number" id="price" name="price" class="form-control" placeholder="Price">
             </div>
             <div class="mb-3">
-                <input type="text" id="quantity" class="form-control" placeholder="Quantity">
+                <input type="text" id="quantity" name="quantity" class="form-control" placeholder="Quantity">
             </div>
             <div class="mb-3">
                 <label class="form-label">Item image</label> <br>
