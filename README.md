@@ -21,11 +21,17 @@ pattern.
 • Add simple animations and other UI embellishments using javascript.
 
 ANSWER :
+
 TECHNOLOGIES USED ARE:
+
 SERVLET 
+
 JSP/HTML
+
 JAVASCRIPT 
+
 MYSQL FOR THE DATABASE 
+
 ARCHITECTURE: MVC (MODEL VIEW CONTROLLER)
 
 SHOW CONTENT
