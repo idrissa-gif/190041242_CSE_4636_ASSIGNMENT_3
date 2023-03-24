@@ -20,6 +20,14 @@ pattern.
 
 • Add simple animations and other UI embellishments using javascript.
 
+ANSWER :
+TECHNOLOGIES USED ARE:
+SERVLET 
+JSP/HTML
+JAVASCRIPT 
+MYSQL FOR THE DATABASE 
+ARCHITECTURE: MVC (MODEL VIEW CONTROLLER)
+
 SHOW CONTENT
 
 <img width="1440" alt="Screenshot 2023-03-24 at 19 40 51" src="https://user-images.githubusercontent.com/76502860/227536773-ecd55344-5f16-43f8-8f61-c646909d99ef.png">
