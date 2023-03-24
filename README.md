@@ -20,9 +20,18 @@ pattern.
 
 • Add simple animations and other UI embellishments using javascript.
 
+SHOW CONTENT
+
 <img width="1440" alt="Screenshot 2023-03-24 at 19 40 51" src="https://user-images.githubusercontent.com/76502860/227536773-ecd55344-5f16-43f8-8f61-c646909d99ef.png">
 
+EDIT
+
 <img width="1440" alt="Screenshot 2023-03-24 at 19 41 33" src="https://user-images.githubusercontent.com/76502860/227536948-415115f2-a5c7-4a4e-bba5-3ce817e77af4.png">
+
+ADD 
+
+<img width="1440" alt="Screenshot 2023-03-24 at 19 43 44" src="https://user-images.githubusercontent.com/76502860/227537443-e67e4e0b-c4ed-4267-849b-ac2eb32ef7ee.png">
+
 
 
 
